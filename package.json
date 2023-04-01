@@ -1,0 +1,20 @@
+{
+  "name": "linux-package-checker",
+  "version": "1.0.0",
+  "description": "Checks which package manager comes installed with your linux distro.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "clear && npm i && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beyluta/linux-package-checker.git"
+  },
+  "author": "Beyluta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beyluta/linux-package-checker/issues"
+  },
+  "homepage": "https://github.com/beyluta/linux-package-checker#readme"
+}
