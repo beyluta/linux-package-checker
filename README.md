@@ -2,7 +2,10 @@
 ## Overview 
 `linux-package-checker` is a simple Node.js module that allows you to determine the package manager being used on your current Linux distribution. 
 ## Installation 
-`linux-package-checker` can be installed using npm: ``` npm install linux-package-checker ``` 
+`linux-package-checker` can be installed using npm: 
+```
+npm install linux-package-checker
+``` 
 ## Usage 
 ```Javascript 
 // Returns the package manager for the current distribution
